@@ -6,7 +6,10 @@ I am studying Electrical and Computer Engineering at the National Technical Univ
 
 My fields of interest are: Software Engineering, Full stack web development, Artificial Intelligence, Machine Learning, Neural Networks
 
-Experience with the following languages/tools: ![image](https://github.com/Kperis/Kperis/assets/116959905/60156028-6129-4ec2-8039-8a21c14538e1)
+Experience with the following languages/tools: 
+
+![image](https://github.com/Kperis/Kperis/assets/116959905/60156028-6129-4ec2-8039-8a21c14538e1)  ![image](https://github.com/Kperis/Kperis/assets/116959905/6a9e7d07-13ca-4273-b57a-a1e8dc92c091)
+
 
 
 
