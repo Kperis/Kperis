@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 **My name is Konstantinos**
+
 I am studying Electrical and Computer Engineering at the National Technical University of Athens 💡
 
 My fields of interest are: Software Engineering, Full stack web development, Artificial Intelligence, Machine Learning, Neural Networks
 
-Experience with the following languages/tools: 
-![image](https://github.com/Kperis/Kperis/assets/116959905/16e73167-c49e-4357-a139-cfcbb53c9d95)
+Experience with the following languages/tools: ![image](https://github.com/Kperis/Kperis/assets/116959905/86e3c5a7-fa5e-4088-9d4c-e70681ee9154)
 
- ![image](https://github.com/Kperis/Kperis/assets/116959905/98d19075-ad58-40bb-8b29-51848d835465)
+
 
 
 <!--
